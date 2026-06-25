@@ -1,4 +1,5 @@
-class Solution {
+class Day3 {
+    
     public int largestAltitude(int[] gain) {
         int n = gain.length;
         int mx = 0;

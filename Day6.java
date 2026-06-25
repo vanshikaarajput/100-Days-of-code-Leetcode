@@ -1,6 +1,6 @@
 import java.util.Arrays;
-
-class Solution {
+class Day6
+ {
     public int maxNumberOfBalloons(String s) {
         int[] f = new int[5];
         String t = "balon";
