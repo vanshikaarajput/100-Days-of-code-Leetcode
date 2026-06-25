@@ -2,7 +2,7 @@
 // Approach: Brute Force (O(n²))
 // Count occurrences of target in every subarray and
 // check if target is the majority element (2 * cnt > len).
-// 
+
 public class Day9 {
     
     public int countMajoritySubarrays(int[] nums, int target) {

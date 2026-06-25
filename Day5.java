@@ -1,3 +1,8 @@
+// Day 5
+// LeetCode 1833 - Maximum Ice Cream Bars
+// Date: 21.06.2026
+
+
 
 import java.util.Arrays;
 

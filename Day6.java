@@ -1,3 +1,7 @@
+// Day 6
+// LeetCode 1189 - Maximum Number of Balloons
+// Date: 22.06.2026
+
 import java.util.Arrays;
 class Day6
  {

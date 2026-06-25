@@ -1,3 +1,7 @@
+// Day 1
+// LeetCode 3614 - Process the String With Special Operations II
+// Date: 17.06.2026
+
 class Day1 {
     public char processStr(String s, long k) {
         int n = s.length();

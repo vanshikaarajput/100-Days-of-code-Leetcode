@@ -1,3 +1,7 @@
+// Day 7
+// LeetCode 3699 - Number of ZigZag Arrays I
+// Date: 23.06.2026
+
 import java.util.Arrays;
 
 class Day7 {
