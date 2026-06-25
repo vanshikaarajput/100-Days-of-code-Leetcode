@@ -2,8 +2,7 @@
 // LeetCode 3699 - Number of ZigZag Arrays II
 // Date: 24.06.2026
 // 
-class Day8
- {
+class Day8{
     private static final long MOD = 1_000_000_007L;
 
     private long[][] multiply(long[][] A, long[][] B) {
