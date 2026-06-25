@@ -1,12 +1,9 @@
 // Day 5
 // LeetCode 1833 - Maximum Ice Cream Bars
 // Date: 21.06.2026
-
-
-
 import java.util.Arrays;
 
-class Solution {
+class Day5 {
     public int maxIceCream(int[] costs, int coins) {
         Arrays.sort(costs);
 
