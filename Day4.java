@@ -1,11 +1,9 @@
 // Day 4
 // LeetCode 1840: Maximum Building Height
 // Date: 20.06.2026
-
-
 import java.util.ArrayList;
 import java.util.List;
-class Solution {
+class Day4 {
 
     public int maxBuilding(int n, int[][] restrictions) {
         // Convert the constraints to a list for manipulation
