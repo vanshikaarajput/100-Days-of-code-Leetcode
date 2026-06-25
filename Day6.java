@@ -3,8 +3,7 @@
 // Date: 22.06.2026
 
 import java.util.Arrays;
-class Day6
- {
+class Day6{
     public int maxNumberOfBalloons(String s) {
         int[] f = new int[5];
         String t = "balon";
