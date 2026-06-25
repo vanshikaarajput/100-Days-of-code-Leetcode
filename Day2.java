@@ -1,6 +1,7 @@
 // Day 2
 // LeetCode 1344 - Angle Between Hands of a Clock
 // Date: 18.06.2026
+//litle modif. 
 
 
 class Day2{
