@@ -1,5 +1,5 @@
 // Day 4
-// LeetCode 1840 - Maximum Building Height
+// LeetCode 1732: Find the Highest Altitude
 // Date: 20.06.2026
 
 class Day3 {
