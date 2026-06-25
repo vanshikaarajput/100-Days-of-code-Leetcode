@@ -5,6 +5,7 @@
 import java.util.Arrays;
 
 class Day7 {
+    
     private static final int MOD = 1000000007;
 
     public int zigZagArrays(int n, int l, int r) {
