@@ -3,6 +3,8 @@
 // Date: 17.06.2026
 
 class Day1 {
+    
+    
     public char processStr(String s, long k) {
         int n = s.length();
         long[] lens = new long[n];
