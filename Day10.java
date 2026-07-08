@@ -1,5 +1,5 @@
 public class Day10 {
-      class Solution {
+    
     public long countMajoritySubarrays(int[] nums, int target) {
         int n = nums.length;
         int pref = n;
@@ -25,7 +25,7 @@ public class Day10 {
 
         return ans;
     }
-}
+
 
     
 }
