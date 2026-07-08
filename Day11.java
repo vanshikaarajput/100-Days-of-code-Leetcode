@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Day11 {
     private static final int MAX_BASE = 31622;
 
