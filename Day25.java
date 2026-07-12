@@ -1,5 +1,8 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Day25{
-    class Solution {
+    
     List<Integer>[] graph;
     boolean[] visited;
     int nodes;
@@ -46,6 +49,6 @@ public class Day25{
                 dfs(nei);
             }
         }
-    }
+    
 }
 }
