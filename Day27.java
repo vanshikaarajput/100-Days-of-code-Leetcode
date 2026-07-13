@@ -1,5 +1,7 @@
+import java.util.Arrays;
+g
 class Day27{
-    class Solution {
+    
     static final int[] q = new int[45];
 
     static {
@@ -25,5 +27,4 @@ class Day27{
 
         return res;
     }
-}
 }
