@@ -1,5 +1,4 @@
 import java.util.Arrays;
-g
 class Day27{
     
     static final int[] q = new int[45];
