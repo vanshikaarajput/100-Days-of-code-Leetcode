@@ -1,4 +1,5 @@
-class Solution {
+class Day36{
+    class Solution {
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         int n = s.length();
         int totalOnes = 0;
@@ -111,4 +112,5 @@ class Solution {
         
         return leftLen + rightLen;
     }
+}
 }
